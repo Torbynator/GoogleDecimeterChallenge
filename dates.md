@@ -1,5 +1,6 @@
-Weekly meetings on mondays in preperation of lecture (talk through current problems with Frederick)
+Weekly meetings on mondays in preperation of lecture (talk through current problems with Frederick)\
 Coworking on thursdays
 
-Research done: 25.6.
-First Running model: 4.7.
+Research done: 25.6.\
+First Running model: 4.7.\
+Internal submission: ?end of July?
