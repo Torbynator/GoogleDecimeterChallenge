@@ -1,4 +1,39 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
 
+# Python virtual environment
+.venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Output files
+output/
+
+# Environment-specific files
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
 
 #dataset
 sdc2023/
