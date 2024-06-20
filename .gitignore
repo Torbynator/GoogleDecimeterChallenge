@@ -6,7 +6,7 @@
 .lab/
 
 # Python virtual environment
-.venv/
+#.venv/
 
 # Python cache files
 __pycache__/
