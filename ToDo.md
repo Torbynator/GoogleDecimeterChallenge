@@ -1,7 +1,9 @@
 # Problems
 ## Prio 1 (until next week)
 - [ ] Data feeding to neural network (changing sattelite number, unfilled data columns...)
-
+- Data can be padded and masked: https://www.tensorflow.org/guide/keras/understanding_masking_and_padding
+- missing data is filled with spaceholders (padding)
+- mask tells model which data is real and which is a placeholder (masking)
 - [ ] Visualize output
 
 - [ ] Find alternatives to LSTM layers (recurrent neural networks)
